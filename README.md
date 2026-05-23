@@ -1,3 +1,2 @@
 # Tower
-
-Developed with Unreal Engine 5
+The game is being developed using the Unreal Engine 5
